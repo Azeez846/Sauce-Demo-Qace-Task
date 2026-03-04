@@ -1,0 +1,23 @@
+{
+  "name": "sauce-demo-qace-task",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Azeez846/Sauce-Demo-Qace-Task#readme",
+  "bugs": {
+    "url": "https://github.com/Azeez846/Sauce-Demo-Qace-Task/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azeez846/Sauce-Demo-Qace-Task.git"
+  },
+  "license": "ISC",
+  "author": "Esther Azeez Temitope",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.11.0"
+  }
+}
